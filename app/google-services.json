@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884483510611",
+    "firebase_url": "https://socialis-82ce0.firebaseio.com",
+    "project_id": "socialis-82ce0",
+    "storage_bucket": "socialis-82ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884483510611:android:745976a2d94fc1654e11a6",
+        "android_client_info": {
+          "package_name": "com.example.socialis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884483510611-bk35f5cslqkmj0ffkg8r2qcrgouq1gp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialis",
+            "certificate_hash": "fdcea8d89ff8f97139709c442c1432ec2a5ca778"
+          }
+        },
+        {
+          "client_id": "884483510611-78lcg7qilb4tigpk346l86efng2fvg1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_O7exArN2M8TXGfhECN8mEGHO7u1beU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884483510611-78lcg7qilb4tigpk346l86efng2fvg1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
